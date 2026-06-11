@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vaibhav+Sengar;Full-Stack+Developer+🚀;AI-Enthusiast;Building+Real-World+Solutions+💡" />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Software Developer | AI | ML | Deep Learning</h3>
 
 ---
 
