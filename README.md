@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Building **Scalable web applications & REST APIs**
 - 🚀 Developed **DFU Detection System,Internship Management System and AI Career Copilot**
-- ⚡ Strong in **Java, DSA & Full-Stack Development**
+- ⚡ Strong in **Python, DSA & Full-Stack Development**
 - 🎯 Focused on solving **real-world problems through tech**
 
 ---
