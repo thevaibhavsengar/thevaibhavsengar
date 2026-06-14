@@ -20,28 +20,37 @@
 <!-- Tech Stack -->
 ## 💻 Tech Stack ⚡
 
-![HTML5](https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B58900?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white)
+### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-9A3412?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B58900?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white)
 
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-166534?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-![Docker](https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-9A3412?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
+### 🤖 AI / Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-9A3412?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 
 
