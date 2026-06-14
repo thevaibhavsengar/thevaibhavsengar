@@ -6,7 +6,7 @@
 <h3 align="center">💻 Software Developer | AI | ML | Deep Learning</h3>
 
 ---
-## About Me
+## 👨‍💻 About Me
 
 - Full-Stack Developer passionate about scalable web applications.
 - Built a Vision Transformer (ViT)-based Diabetic Foot Ulcer Detection System (92% accuracy, 93% sensitivity).
