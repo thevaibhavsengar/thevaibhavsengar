@@ -25,16 +25,21 @@
 ![Java](https://img.shields.io/badge/Java-9A3412?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B58900?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-C2410C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-4C1D95?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-164E63?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-065F46?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1F2937?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,9 +55,6 @@
 ![Docker](https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-9A3412?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
 
 <!-- Social connections -->
 <div align="center">
