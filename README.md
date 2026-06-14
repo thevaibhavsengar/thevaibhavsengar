@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
--I am a full-stack developer who loves building systems that are clean, scalable, and actually useful. Whether it's a role-based access platform or a deep learning inference endpoint.
+-I am a full-stack developer who loves building systems that are clean, scalable, and actually useful. Whether it's a role-based access platform or a deep learning inference endpoint.\n
 -I built a Diabetic Foot Ulcer detection system using Vision Transformer (ViT) and PyTorch — achieving 92% accuracy and 93% sensitivity on medical imaging data — and deployed it with a FastAPI backend and React interface used by 50+ clinical workers. 
 -I also designed a full-stack Internship Management System with RBAC, REST APIs, and real-time data sync during my internship at Info Origin Technologies Pvt Ltd. 
 -Recent Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur
