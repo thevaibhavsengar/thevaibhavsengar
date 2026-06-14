@@ -11,8 +11,8 @@
 - Full-Stack Developer passionate about scalable web applications.
 - Built a Vision Transformer (ViT)-based Diabetic Foot Ulcer Detection System (92% accuracy, 93% sensitivity).
 - Developed and deployed AI services using FastAPI, React, and PyTorch.
-- Built an Internship Management System with RBAC, REST APIs, and real-time synchronization during my internship.
-- Interested in Backend Development, AI/ML, System Design, and Cloud Technologies.
+- Implemented an Internship Management System with RBAC, REST APIs, and real-time synchronization during my internship.
+- Interested in Backend Development, AI/ML, System Design, and AI Agents.
 - Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.
 
 
