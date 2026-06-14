@@ -18,6 +18,7 @@
 
 
 <!-- Tech Stack -->
+<div align="center">
 ## 💻 Tech Stack ⚡
 
 ### 👨‍💻 Languages
@@ -55,6 +56,8 @@
 ![Docker](https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-9A3412?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 <!-- Social connections -->
 <div align="center">
