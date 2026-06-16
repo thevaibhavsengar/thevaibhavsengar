@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about AI Agents, System Design, and Cloud Architecture.\
 🤖 &nbsp;I build Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.\
 💬 &nbsp;Feel free to reach out to me for collaborations, open-source contributions, or just a great tech chat!\
-✉️ &nbsp;You can connect with me on [LinkedIn](https://linkedin.com/in/thevaibhavsengar)! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can connect with me on [LinkedIn](https://linkedin.com/in/thevaibhavsengar)!\
 📄 &nbsp;Please have a look at my [Portfolio](https://vaibhavsengar.lovable.app/) for more details about me. I'm open to feedback and suggestions!
 
 
