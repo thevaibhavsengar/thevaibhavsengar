@@ -18,7 +18,6 @@
 <div align="center">
 
 ### 👨‍💻 Languages
-### 👨‍💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgresql&theme=dark" />
@@ -26,37 +25,33 @@
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-374151?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-6D28D9?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwind-css&logoColor=67E8F9)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" />
+</p>
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-15803D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-374151?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-475569?style=for-the-badge&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+</p>
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-16A34A?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase&theme=dark" />
+</p>
 
 ### 🤖 AI / Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=4FC3F7)
-![Pandas](https://img.shields.io/badge/Pandas-4338CA?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+</p>
 
 ### 🛠️ Tools & Platforms
 
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-C2410C?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-374151?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel&theme=dark" />
+</p>
 
 </div>
 
