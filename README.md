@@ -36,20 +36,22 @@
 </div>
 
 ## 🚀 Projects
-### 🔹Diabetic Foot Ulcer Detection System (Deep Learning)
-- Vision Transformer (ViT) model
-- Compared CNN & YOLO models
-- FastAPI + React integration
-- Mapbox API for hospital location
-### 🔹Internship Management System
-- Role-based authentication (Intern & Mentor)
-- 10+ REST APIs for CRUD operations
-- React + Node.js + MySQL
-### 🔹AI Career Copilot
--	AI-based resume analyzer powered by Generative AI (LLM) and OpenAI API.
--	Used prompt engineering.
-- Flask, SQLAlchemy, and TiDB.
--	Added resume parsing capability for PDF/DOCX documents and created RESTful APIs.
+### 🔹 Diabetic Foot Ulcer Detection System (Deep Learning)
+▶ Vision Transformer (ViT) model
+▶ Compared CNN & YOLO models
+▶ FastAPI + React integration
+▶ Mapbox API for hospital location
+
+### 🔹 Internship Management System
+▶ Role-based authentication (Intern & Mentor)
+▶ 10+ REST APIs for CRUD operations
+▶ React + Node.js + MySQL
+
+### 🔹 AI Career Copilot
+▶ AI-based resume analyzer powered by Generative AI (LLM) and OpenAI API
+▶ Used prompt engineering
+▶ Flask, SQLAlchemy, and TiDB
+▶ Resume parsing capability for PDF/DOCX documents and RESTful APIs
 
 
 
