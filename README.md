@@ -2,7 +2,7 @@
   <img src="banner.jpg"  height="300px" width="100%"/>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
 💡 &nbsp;I love exploring new technologies and building real-world software solutions.\
 🎓 &nbsp;I'm a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.\
