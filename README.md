@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Hey_there__I_m_Vaibhav____1_.jpg" alt="Hey there, I'm Vaibhav" width="100%"/>
+  <img src="banner.jpg" width="100%"/>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
