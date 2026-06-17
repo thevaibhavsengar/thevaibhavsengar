@@ -2,12 +2,7 @@
   <img src="banner.jpg"  height="300px" width="100%"/>
 </p>
 
-### &nbsp;About Me
-
 ### 👨🏻‍💻 About Me
-
-### 👨🏻‍💻 About Me
-
 > I love exploring new technologies and building real-world software solutions.
 > Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.
 > Currently learning more about AI Agents, System Design, and Cloud Architecture.
