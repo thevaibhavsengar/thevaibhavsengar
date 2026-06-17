@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase&theme=dark" />
 
 ### 🤖 AI / Data Science
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=docker,postman,vercel&theme=dark" />
