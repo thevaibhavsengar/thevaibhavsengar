@@ -18,12 +18,11 @@
 <div align="center">
 
 ### 👨‍💻 Languages
+### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-B45309?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-CA8A04?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgresql&theme=dark" />
+</p>
 
 ### 🎨 Frontend
 
