@@ -1,4 +1,6 @@
-<h2>Hey there! I'm Vaibhav 👋</h2>
+<p align="center">
+  <img src="./Hey_there__I_m_Vaibhav____1_.jpg" alt="Hey there, I'm Vaibhav" width="100%"/>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
