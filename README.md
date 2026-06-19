@@ -47,11 +47,7 @@
 ▶ 10+ REST APIs for CRUD operations
 ▶ React + Node.js + MySQL
 
-### 🔹 AI Career Copilot
-▶ AI-based resume analyzer powered by Generative AI (LLM) and OpenAI API
-▶ Used prompt engineering
-▶ Flask, SQLAlchemy, and TiDB
-▶ Resume parsing capability for PDF/DOCX documents and RESTful APIs
+
 
 
 
