@@ -32,7 +32,11 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
