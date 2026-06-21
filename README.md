@@ -31,7 +31,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
 </div>
 
-<div>
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=default)](https://git.io/streak-stats)
 </div>
 
