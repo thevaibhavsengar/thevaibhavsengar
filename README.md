@@ -32,6 +32,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 </div>
 
 
+<br><br>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=tokyonight)](https://git.io/streak-stats" />
