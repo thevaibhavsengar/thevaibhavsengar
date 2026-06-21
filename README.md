@@ -53,7 +53,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/Diabetic-Foot-Ulcer-Detection-using-Deep-learning-for-Rural-Population-Healthcare-based-Project-">
+      <a href="https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Diabetic-Foot-Ulcer-Detection-using-Deep-learning-for-Rural-Population-Healthcare-based-Project-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
@@ -65,7 +65,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/Internship-management-System-Project">
+      <a href="https://github.com/thevaibhavsengar/Internship-Management-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Internship-management-System-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
