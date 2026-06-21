@@ -45,43 +45,6 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
   </a>
 </p>
 
-## Top Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Multilingual-Customer-Support-RAG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
-      </a>
-      <p align="left" style="color:#8b949e; font-size:13px; padding: 6px 0;">
-        An end-to-end RAG system that enables intelligent customer support by answering questions from enterprise documents with citation-backed responses. Leverages <b>Google Gemini</b>, <b>LangChain</b>, <b>FAISS</b>, <b>FastAPI</b>, and <b>Streamlit</b> for accurate, context-aware, and scalable document Q&A.
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Diabetic-foot-ulcer-detection-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
-      </a>
-      <p align="left" style="color:#8b949e; font-size:13px; padding: 6px 0;">
-        An AI-powered DFU Detection System using a <b>Vision Transformer (ViT)</b> for wound image classification, with a <b>FastAPI</b> backend, <b>React (Vite)</b> frontend, and location-based hospital recommendations via <b>OpenStreetMap</b> & <b>Leaflet</b>.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/thevaibhavsengar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=thevaibhavsengar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
-      </a>
-      <p align="left" style="color:#8b949e; font-size:13px; padding: 6px 0;">
-        My GitHub profile README — showcasing my skills, projects, tech stack, and contact links.
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/thevaibhavsengar/Internship-Management-System-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Internship-Management-System-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
-      </a>
-      <p align="left" style="color:#8b949e; font-size:13px; padding: 6px 0;">
-        A full-stack web app built with <b>React.js</b> and <b>JSON Server</b> for managing interns and internship batches. Features separate portals for <b>Interns</b> and <b>Mentors</b> with role-based access and full CRUD capabilities.
-      </p>
-    </td>
   </tr>
 </table>
