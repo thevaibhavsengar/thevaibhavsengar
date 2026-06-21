@@ -29,11 +29,8 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=docker,postman,vercel&theme=dark" />
 
-</div>
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=default)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark)](https://git.io/streak-stats)
 
 
 
