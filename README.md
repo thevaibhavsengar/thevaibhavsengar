@@ -31,17 +31,10 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
 </div>
 
+<div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=default)](https://git.io/streak-stats)
-
-
-
-
-
-
----
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Vaibhaavsengar07&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+
+
+  
