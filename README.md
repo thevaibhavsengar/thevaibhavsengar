@@ -49,29 +49,28 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
   <tr>
     <td width="50%">
       <a href="https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Multilingual-Customer-Support-RAG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Multilingual-Customer-Support-RAG" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Multilingual-Customer-Support-RAG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/thevaibhavsengar/Diabetic-Foot-Ulcer-Detection-using-Deep-learning-for-Rural-Population-Healthcare-based-Project-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Diabetic-Foot-Ulcer-Detection-using-Deep-learning-for-Rural-Population-Healthcare-based-Project-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Diabetic-Foot-Ulcer-Detection" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Diabetic-Foot-Ulcer-Detection-using-Deep-learning-for-Rural-Population-Healthcare-based-Project-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/thevaibhavsengar/thevaibhavsengar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=thevaibhavsengar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="thevaibhavsengar" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=thevaibhavsengar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/thevaibhavsengar/Internship-management-System-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Internship-management-System-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Internship-Management-System" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevaibhavsengar&repo=Internship-management-System-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
 
 
   
