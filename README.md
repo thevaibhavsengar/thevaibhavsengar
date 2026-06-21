@@ -31,17 +31,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
 </div>
 
-## 🚀 Projects
-### 🔹 Diabetic Foot Ulcer Detection System (Deep Learning)
-▶ Vision Transformer (ViT) model
-▶ Compared CNN & YOLO models
-▶ FastAPI + React integration
-▶ Mapbox API for hospital location
 
-### 🔹 Internship Management System
-▶ Role-based authentication (Intern & Mentor)
-▶ 10+ REST APIs for CRUD operations
-▶ React + Node.js + MySQL
 
 
 
