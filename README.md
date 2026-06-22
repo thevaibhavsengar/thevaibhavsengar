@@ -52,9 +52,6 @@ Full-stack React app with JSON Server — separate portals for Interns and Mento
 ---
 
 
-
----
-
 ### 👨🏻‍💻 About Me
 <p align="center">
 <a
