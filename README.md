@@ -3,7 +3,7 @@
 <p align="center">
 <a
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=24&pause=1000&color=FFFFFF&center=true&width=500&lines=Hi+I'm+Vaibhav+Sengar!;Full-Stack+%2B+AI%2FML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hi+I'm+Vaibhav+Sengar!;Full-Stack+%2B+AI%2FML+Engineer)](https://git.io/typing-svg)
 </a>
 
   
