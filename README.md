@@ -55,5 +55,5 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark) ![Trophy](https://github-profile-trophy.vercel.app/?username=thevaibhavsengar&theme=darkhub&no-bg=true&row=1)
 
