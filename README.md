@@ -1,15 +1,59 @@
 ## 🔖 Pinned Repositories
 
+## 🔖 Pinned Repositories
+
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🔗 Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG) | An end-to-end Retrieval-Augmented Generation (RAG) system that enables intelligent customer support by answering questions from enterprise documents with citation-backed responses. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [🔗 Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system) | An AI-powered Diabetic Foot Ulcer (DFU) Detection System that leverages a Vision Transformer (ViT) for accurate wound image classification with a FastAPI backend for inference. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [🔗 thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar) | My GitHub profile README. | — |
-| [🔗 Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System) | A full-stack web application built with React.js and JSON Server for managing interns and internship batches, with separate portals for Interns and Mentors with role-based access. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20"/> [Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG)
+![](https://img.shields.io/badge/-Public-gray?style=flat)
 
+End-to-end RAG system enabling intelligent customer support with citation-backed responses from enterprise documents.
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🧠 [Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system)
+![](https://img.shields.io/badge/-Public-gray?style=flat)
+
+AI-powered wound classification using Vision Transformers (ViT) with a FastAPI backend for real-time inference.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👤 [thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar)
+![](https://img.shields.io/badge/-Public-gray?style=flat)
+
+My GitHub profile README — a living document about who I am and what I build.
+
+![Markdown](https://img.shields.io/badge/Markdown-888888?style=flat&logo=markdown&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🏢 [Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System)
+![](https://img.shields.io/badge/-Public-gray?style=flat)
+
+Full-stack React app with JSON Server — separate portals for Interns and Mentors with role-based access control.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
 </div>
+
+---
+
+
 
 ---
 
