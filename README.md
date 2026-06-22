@@ -54,4 +54,6 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 ---
 
 <br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark)
+
