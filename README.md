@@ -35,6 +35,8 @@ I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpu
 
 </div>
 
+---
+
 ## 🔖 Pinned Repositories
 
 <div align="center">
