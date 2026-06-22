@@ -32,8 +32,6 @@ AI-powered wound classification using Vision Transformers (ViT) with a FastAPI b
 
 My GitHub profile README — a living document about who I am and what I build.
 
-![Markdown](https://img.shields.io/badge/Markdown-888888?style=flat&logo=markdown&logoColor=white)
-
 </td>
 <td width="50%">
 
