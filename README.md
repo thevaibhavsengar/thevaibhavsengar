@@ -9,7 +9,7 @@
   
 </p>
 
-I love exploring new technologies and building real-world software solutions.Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.I built Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.I'm constantly exploring new technologies, contributing to impactful projects, and improving my skills in AI, system design, and cloud-native development. My goal is to build innovative solutions that make AI practical, accessible, and valuable for people and businesses.Open to collaborations, open-source contributions, or just a great tech chat!
+I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.I built Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.I'm constantly exploring new technologies, contributing to impactful projects, and improving my skills in AI, system design, and cloud-native development. My goal is to build innovative solutions that make AI practical, accessible, and valuable for people and businesses.Open to collaborations, open-source contributions, or just a great tech chat!
 [LinkedIn](https://linkedin.com/in/thevaibhavsengar) • [Portfolio](https://vaibhavsengar.lovable.app/)
 
 ## ⚡ Tech Stack
