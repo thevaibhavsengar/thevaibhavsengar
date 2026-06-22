@@ -40,20 +40,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 <br>
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-
-  </tr>
-</table>
-<br>
-
----
-
-<br>
+<
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true" height="160"/>
