@@ -14,7 +14,6 @@ I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpu
 [LinkedIn](https://linkedin.com/in/thevaibhavsengar) you can also checkout [Portfolio](https://vaibhavsengar.lovable.app/)
 
 ## ⚡ Tech Stack
----
 <div align="center">
 
 ### 👨‍💻 Languages
@@ -38,7 +37,6 @@ I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpu
 </div>
 
 ## 🔖 Pinned Repositories
----
 
 <div align="center">
 <table>
