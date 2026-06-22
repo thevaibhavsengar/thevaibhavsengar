@@ -39,11 +39,7 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
 <br>
 
-<br>
 
----
-
-<br>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark" alt="GitHub Streak" />
@@ -53,5 +49,9 @@ Check out my [Portfolio](https://vaibhavsengar.lovable.app/) — feedback and su
 
   </tr>
 </table>
+<br>
 
+---
+
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark)
