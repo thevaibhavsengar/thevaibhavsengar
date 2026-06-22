@@ -3,7 +3,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td height="200px" width="50%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20"/> [Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG)
 ![](https://img.shields.io/badge/-Public-gray?style=flat)
