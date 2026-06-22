@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="cover.jpg"  height="300px" width="100%"/>
-</p>
 
 ### 👨🏻‍💻 About Me
 I love exploring new technologies and building real-world software solutions.Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.Currently learning more about AI Agents, System Design, and Cloud Architecture.I build Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.Open to collaborations, open-source contributions, or just a great tech chat!
