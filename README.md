@@ -1,7 +1,5 @@
 ## 🔖 Pinned Repositories
 
-## 🔖 Pinned Repositories
-
 <div align="center">
 <table>
 <tr>
