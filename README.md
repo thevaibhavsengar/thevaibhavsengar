@@ -1,3 +1,17 @@
+## 🔖 Pinned Repositories
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🔗 Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG) | An end-to-end Retrieval-Augmented Generation (RAG) system that enables intelligent customer support by answering questions from enterprise documents with citation-backed responses. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🔗 Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system) | An AI-powered Diabetic Foot Ulcer (DFU) Detection System that leverages a Vision Transformer (ViT) for accurate wound image classification with a FastAPI backend for inference. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🔗 thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar) | My GitHub profile README. | — |
+| [🔗 Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System) | A full-stack web application built with React.js and JSON Server for managing interns and internship batches, with separate portals for Interns and Mentors with role-based access. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+</div>
+
+---
 
 ### 👨🏻‍💻 About Me
 <p align="center">
