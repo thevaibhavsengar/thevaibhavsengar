@@ -105,7 +105,19 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 ---
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<table>
+<tr>
+<td align="center">
+
+### ✨ Quote of the Day
+
+*"The best way out is always through."*
+
+**— Robert Frost**
+
+</td>
+</tr>
+</table>
 
 </div>
 
