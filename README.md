@@ -103,21 +103,14 @@ Full-stack React app with JSON Server — separate portals for Interns and Mento
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 
 ---
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+# 💭 Quote
 
-### ✨ Quote of the Day
-
-*"The best way out is always through."*
-
-**— Robert Frost**
-
-</td>
-</tr>
-</table>
+> ### *"The best way out is always through."*
+>
+> — **Robert Frost**
 
 </div>
 
