@@ -99,18 +99,6 @@ Full-stack React app with JSON Server — separate portals for Interns and Mento
   </a>
 </p
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark" height="160"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark" />
-  </a>
-</p>
-
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 
