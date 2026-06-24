@@ -86,6 +86,18 @@ Full-stack React app with JSON Server — separate portals for Interns and Mento
 </div>
 
 ---
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark&hide_border=true" />
+  </a>
+</p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true" height="160"/>
