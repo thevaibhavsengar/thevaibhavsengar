@@ -80,7 +80,9 @@ I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpu
 </tr>
 </table>
 </div>
+
 ---
+
 📊 GitHub Stats
 
 <p align="center">
