@@ -39,50 +39,22 @@ I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpu
 ## 🔖 Pinned Repositories
 
 <div align="center">
-<table>
-<tr>
-<td height="50px" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="20"/> [Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG)
-![](https://img.shields.io/badge/-Public-gray?style=flat)
+![Pinned Repositories](https://raw.githubusercontent.com/thevaibhavsengar/thevaibhavsengar/main/pinned-repos.svg)
 
-End-to-end RAG system enabling intelligent customer support with citation-backed responses from enterprise documents.
+</div>
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+<!-- 
+  Card links — click the repo names below to visit each project
+-->
 
-</td>
-<td width="50%">
+<div align="center">
 
-### 🧠 [Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system)
-![](https://img.shields.io/badge/-Public-gray?style=flat)
+| | |
+|:---:|:---:|
+| [📦 Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG) | [🧠 Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system) |
+| [👤 thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar) | [🏢 Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System) |
 
-AI-powered wound classification using Vision Transformers (ViT) with a FastAPI backend for real-time inference.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👤 [thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar)
-![](https://img.shields.io/badge/-Public-gray?style=flat)
-
-My GitHub profile README — a living document about who I am and what I build.
-
-</td>
-<td width="50%">
-
-### 🏢 [Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System)
-![](https://img.shields.io/badge/-Public-gray?style=flat)
-
-Full-stack React app with JSON Server — separate portals for Interns and Mentors with role-based access control.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
