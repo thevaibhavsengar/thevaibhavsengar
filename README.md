@@ -3,7 +3,7 @@
 ---
 CS graduate | Full-Stack + Generative AI | Open to full-time roles
 
-- 🏢 Former Intern at Info Origin Technologies Pvt Ltd — built production apps with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
+- 🏢 Former Intern at Info Origin Technologies Pvt Ltd — built full stack management system with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
 - 🧠 Built a Diabetic Foot Ulcer detection system using Vision Transformers — 92% accuracy, 91% precision, 93% sensitivity, deployed via FastAPI + React
 - 🤖 Implemented an enterprise RAG agent for document-based customer support — semantic search, conversation memory, Docker deployment
 - 🔗 Connect with me : [LinkedIn](https://linkedin.com/in/thevaibhavsengar)  |  [Portfolio](https://vaibhavsengar.lovable.app/)
