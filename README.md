@@ -31,51 +31,6 @@ Computer Science graduate | Full-Stack + Generative AI | Open to full-time roles
 
 </div>
 
-## 🔖 Pinned Repositories
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top" style="background-color:#0d1117; border:1px solid #30363d; border-radius:8px; padding:16px;">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="16"/> &nbsp;**[Multilingual-Customer-Support-RAG](https://github.com/thevaibhavsengar/Multilingual-Customer-Support-RAG)**&nbsp;&nbsp;![](https://img.shields.io/badge/Public-30363d?style=flat&labelColor=30363d&color=30363d)
-
-<sub>End-to-end RAG system enabling intelligent customer support with citation-backed responses from enterprise documents.</sub>
-
-![Python](https://img.shields.io/badge/●%20Python-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=python&logoColor=3572A5)
-
-</td>
-<td width="50%" valign="top" style="background-color:#0d1117; border:1px solid #30363d; border-radius:8px; padding:16px;">
-
-🧠 &nbsp;**[Diabetic-foot-ulcer-detection-system](https://github.com/thevaibhavsengar/Diabetic-foot-ulcer-detection-system)**&nbsp;&nbsp;![](https://img.shields.io/badge/Public-30363d?style=flat&labelColor=30363d&color=30363d)
-
-<sub>AI-powered wound classification using Vision Transformers (ViT) with a FastAPI backend for real-time inference.</sub>
-
-![Jupyter Notebook](https://img.shields.io/badge/●%20Jupyter_Notebook-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=jupyter&logoColor=DA5B0B)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="background-color:#0d1117; border:1px solid #30363d; border-radius:8px; padding:16px;">
-
-👤 &nbsp;**[thevaibhavsengar](https://github.com/thevaibhavsengar/thevaibhavsengar)**&nbsp;&nbsp;![](https://img.shields.io/badge/Public-30363d?style=flat&labelColor=30363d&color=30363d)
-
-<sub>My GitHub profile README — a living document about who I am and what I build.</sub>
-
-</td>
-<td width="50%" valign="top" style="background-color:#0d1117; border:1px solid #30363d; border-radius:8px; padding:16px;">
-
-🏢 &nbsp;**[Internship-Management-System](https://github.com/thevaibhavsengar/Internship-Management-System)**&nbsp;&nbsp;![](https://img.shields.io/badge/Public-30363d?style=flat&labelColor=30363d&color=30363d)
-
-<sub>Full-stack React app with JSON Server — separate portals for Interns and Mentors with role-based access control.</sub>
-
-![JavaScript](https://img.shields.io/badge/●%20JavaScript-0d1117?style=flat&labelColor=0d1117&color=0d1117&logo=javascript&logoColor=F1E05A)
-
-</td>
-</tr>
-</table>
-</div>
-
 ---
 
 📊 GitHub Stats
