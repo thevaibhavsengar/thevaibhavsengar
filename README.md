@@ -1,14 +1,6 @@
 
 ### 👨🏻‍💻 About Me
 ---
-<p align="center">
-<a
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hi+I'm+Vaibhav+Sengar!;Software Developer)](https://git.io/typing-svg)
-</a>
-
-  
-</p>
 
 I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.I built Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.I'm constantly exploring new technologies, contributing to impactful projects, and improving my skills in AI, system design, and cloud-native development. My goal is to build innovative solutions that make AI practical, accessible, and valuable for people and businesses.Open to collaborations, open-source contributions, or just a great tech chat! Lets connect on:
 [LinkedIn](https://linkedin.com/in/thevaibhavsengar).You can also checkout [Portfolio](https://vaibhavsengar.lovable.app/)
