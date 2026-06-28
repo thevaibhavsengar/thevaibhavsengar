@@ -1,8 +1,8 @@
 
 ### 👨🏻‍💻 About Me
 ---
-
-I am a Computer Science graduate from G.H. Raisoni College of Engineering, Nagpur.I built Full-Stack applications powered by AI/ML — from Vision Transformers to RAG pipelines.I'm constantly exploring new technologies, contributing to impactful projects, and improving my skills in AI, system design, and cloud-native development. My goal is to build innovative solutions that make AI practical, accessible, and valuable for people and businesses.Open to collaborations, open-source contributions, or just a great tech chat! Lets connect on:
+I'm a Computer Science graduate passionate about building impactful software at the intersection of full-stack development and Generative AI. As a fresher, I bring hands-on experience from my internship at Info Origin Technologies, where I built production-grade applications using React, Node.js, and MySQL — designing secure Role-Based Access Control systems, scalable REST APIs, and modular MVC backends, validated through end-to-end API testing with Postman. On the AI/ML side, I developed a multimodal Diabetic Foot Ulcer detection system using Vision Transformers, achieving 92% accuracy, 91% precision, and 93% sensitivity — benchmarked against CNN and YOLO architectures on imbalanced medical datasets and deployed with a FastAPI inference endpoint and a React interface featuring real-time hospital suggestions. I also engineered an enterprise RAG agent that automates document-based customer support with citation-backed, hallucination-reduced responses, covering the full pipeline from document ingestion and semantic search to conversation memory and containerized Docker deployment. I'm eager to contribute to teams building at the frontier of software and AI, and I'm actively looking for full-time opportunities in Software Development or AI/ML Engineering. 
+Lets connect on:
 [LinkedIn](https://linkedin.com/in/thevaibhavsengar).You can also checkout [Portfolio](https://vaibhavsengar.lovable.app/)
 
 ## ⚡ Tech Stack
