@@ -1,8 +1,6 @@
 
 ### 👨🏻‍💻 About Me
 ---
-👨🏻‍💻 About Me
-
 CS graduate | Full-Stack + Generative AI | Open to full-time roles
 
 - 🏢 Interned at Info Origin Technologies — built production apps with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
