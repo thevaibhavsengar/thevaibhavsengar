@@ -10,29 +10,7 @@
 - 🔗 Connect with me : [LinkedIn](https://linkedin.com/in/thevaibhavsengar)  |  [Portfolio](https://vaibhavsengar.lovable.app/)
 
 ## ⚡ Tech Stack
-<div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgresql&theme=dark" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase&theme=dark" />
-
-### 🤖 AI / Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,postman,vercel&theme=dark" />
-
-</div>
-## ⚡ Tech Stack
- 
 | Category | Technologies |
 |---|---|
 | 👨‍💻 **Languages** | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) |
