@@ -59,33 +59,27 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <div align="center">
   
 <a href="vaibhavsengar74@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=30 height=30 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/vsengar0704" target="_blank">
-<img src="./twitter.jpg" width=50 height=50 alt="vsengar0704" style="margin-bottom: 5px;" />
+<a href="https://x.com/VaibhavSengar4" target="_blank">
+<img src="./twitter.jpg" width=30 height=30 alt="VaibhavSengar4" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/vaibhav.sengar__/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="vaibhav.sengar__" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=30 height=30 alt="vaibhav.sengar__" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/thevaibhavsengar" target="_blank">
-<img src="./github.png" width=50 height=50 alt="thevaibhavsengar" style="margin-bottom: 5px;" />
+<img src="./github.png" width=30 height=30 alt="thevaibhavsengar" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/thevaibhavsengar/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=30 height=30 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
 
-# 💭 Quote
 
-> ### *"The best way out is always through."*
->
-> — **Robert Frost**
-
-</div>
 
 
 
