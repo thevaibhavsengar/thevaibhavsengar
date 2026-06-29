@@ -7,6 +7,7 @@
 ### Computer Science graduate | Full-Stack + Generative AI | Open to full-time roles
 - I have recently completed my **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **G.H. Raisoni College of Engineering, Nagpur, Maharashtra**. Passionate about **MERN Stack Development, Python Programming, Open Source Contribution, and Full Stack Web Development**, I continuously explore modern technologies and build impactful real-world project.
 - 🏢 Former Intern at Info Origin Technologies Pvt Ltd — built full stack management system with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
+  
 💡 My technical interests include:  
 * 🌐 MERN Stack Development
 * ⚡ JavaScript
