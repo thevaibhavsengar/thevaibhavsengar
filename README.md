@@ -47,7 +47,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 ## Connect with Me 🤝
 
-<div align="left">
+<div align="center">
   
 <a href="vaibhavsengar74@gmail.com" target="_blank">
 <img src="./gmail.png" width=40 height=40 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
