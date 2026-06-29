@@ -51,6 +51,33 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
   </strong></p>
 </div>
 <div align="center">
+  
+<!--connect section-->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me 🤝
+
+<div align="center">
+  
+<a href="vaibhavsengar74@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/vsengar0704" target="_blank">
+<img src="./twitter.jpg" width=50 height=50 alt="vsengar0704" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/vaibhav.sengar__/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="vaibhav.sengar__" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/thevaibhavsengar" target="_blank">
+<img src="./github.png" width=50 height=50 alt="thevaibhavsengar" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/thevaibhavsengar/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
 
 # 💭 Quote
 
