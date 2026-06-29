@@ -12,7 +12,7 @@
 * 🌐 MERN Stack Development
 * ⚡ JavaScript
 * 🧠 Data Structures & Algorithms
-* 🚀 Open Source Collaboration
+* 🚀 Generative AI
 * 💻 Real-World Project Development
 - I am always eager to learn, innovate, and contribute to the tech community through coding, collaboration, and continuous growth.
 - 🧠 Developed a Diabetic Foot Ulcer detection system using Vision Transformers — 92% accuracy, 91% precision, 93% sensitivity, deployed via FastAPI + React
