@@ -31,7 +31,16 @@
 <img src="https://skillicons.dev/icons?i=docker,postman,vercel&theme=dark" />
 
 </div>
-
+## ⚡ Tech Stack
+ 
+| Category | Technologies |
+|---|---|
+| 👨‍💻 **Languages** | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) |
+| 🎨 **Frontend** | ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark) ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark) ![Redux](https://skillicons.dev/icons?i=redux&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) |
+| ⚙️ **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark) ![Flask](https://skillicons.dev/icons?i=flask&theme=dark) |
+| 🗄️ **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) |
+| 🤖 **AI / Data Science** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) |
+| 🛠️ **Tools & Platforms** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
 ---
 
 📊 GitHub Stats
@@ -51,11 +60,10 @@
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <p><strong>
-    "🎓 College. ☕️ Coffee. 💻 Code. Repeat."
+    "☕️ Coffee. 💻 Code. Repeat."
     <br><br>
     Vibing to: 🎧
   </strong></p>
