@@ -42,40 +42,31 @@
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div align="center">
-  <p><strong>
-    "☕️ Coffee. 💻 Code. Repeat."
-    <br><br>
-    Vibing to: 🎧
-  </strong></p>
-</div>
-<div align="center">
-  
+
 <!--connect section-->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me 🤝
+## Connect with Me 🤝
 
-<div align="center">
+<div align="left">
   
 <a href="vaibhavsengar74@gmail.com" target="_blank">
-<img src="./gmail.png" width=30 height=30 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=40 height=40 alt="vaibhavsengar74@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/VaibhavSengar4" target="_blank">
-<img src="./twitter.jpg" width=30 height=30 alt="VaibhavSengar4" style="margin-bottom: 5px;" />
+<img src="./twitter.jpg" width=40 height=40 alt="VaibhavSengar4" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/vaibhav.sengar__/" target="_blank">
-<img src="./instagram.png" width=30 height=30 alt="vaibhav.sengar__" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=40 height=40 alt="vaibhav.sengar__" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/thevaibhavsengar" target="_blank">
-<img src="./github.png" width=30 height=30 alt="thevaibhavsengar" style="margin-bottom: 5px;" />
+<img src="./github.png" width=40 height=40 alt="thevaibhavsengar" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/thevaibhavsengar/" target="_blank">
-<img src="./linkedin.png" width=30 height=30 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=40 height=40 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
 
