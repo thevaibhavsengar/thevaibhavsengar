@@ -6,7 +6,8 @@ Computer Science graduate | Full-Stack + Generative AI | Open to full-time roles
 - 🏢 Former Intern at Info Origin Technologies Pvt Ltd — built full stack management system with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
 - 🧠 Developed a Diabetic Foot Ulcer detection system using Vision Transformers — 92% accuracy, 91% precision, 93% sensitivity, deployed via FastAPI + React
 - 🤖 Implemented an enterprise RAG agent for document-based customer support — semantic search, conversation memory, Docker deployment
-- 🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development
+- 🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development.
+-  I have completed my **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **G.H. Raisoni College of Engineering, Nagpur, Maharashtra**. Passionate about **MERN Stack Development, Python Programming, Open Source Contribution, and Full Stack Web Development**, I continuously explore modern technologies and build impactful real-world project
 - 🔗 Connect with me : [LinkedIn](https://linkedin.com/in/thevaibhavsengar)  |  [Portfolio](https://vaibhavsengar.lovable.app/)
 
 ## ⚡ Tech Stack
