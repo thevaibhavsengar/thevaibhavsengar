@@ -45,7 +45,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 <!--connect section-->
 
-## Connect with Me 🤝
+### Connect with Me 🤝
 
 <div align="center">
   
