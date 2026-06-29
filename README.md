@@ -25,7 +25,7 @@
 | 🛠️ **Tools & Platforms** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
 ---
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="180"/>
