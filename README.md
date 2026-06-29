@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 About Me
 ---
 ### Computer Science graduate | Full-Stack + Generative AI | Open to full-time roles
-
+<p align="center">"Hi I’m Vaibhav, My name signifies 'anointing' or 'consecration.'</p>
 - 🏢 Former Intern at Info Origin Technologies Pvt Ltd — built full stack management system with React, Node.js & MySQL, including secure RBAC systems and scalable REST APIs
 - 🧠 Developed a Diabetic Foot Ulcer detection system using Vision Transformers — 92% accuracy, 91% precision, 93% sensitivity, deployed via FastAPI + React
 - 🤖 Implemented an enterprise RAG agent for document-based customer support — semantic search, conversation memory, Docker deployment
