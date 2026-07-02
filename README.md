@@ -33,8 +33,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="180"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" height="180"/>
 </p>
 <p align="center">
