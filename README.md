@@ -32,17 +32,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark&hide_border=true" />
-  </a>
-</p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=C9D1D9"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=thevaibhavsengar&theme=dark&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
