@@ -29,7 +29,6 @@
 | 🗄️ **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark) ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) |
 | 🤖 **AI / Data Science** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark) |
 | 🛠️ **Tools & Platforms** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
----
 
 ## 📊 GitHub Stats
 
