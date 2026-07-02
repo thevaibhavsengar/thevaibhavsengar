@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=sfmono&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome Message" />
 </div>
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 ### Computer Science graduate | Full-Stack | Generative AI | Open to full-time roles
 - I have recently completed my **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **G.H. Raisoni College of Engineering, Nagpur, Maharashtra**. Passionate about **Full Stack Web Developement, Python Programming and Artificial Intelligence**, I continuously explore modern technologies and build impactful real-world project.
