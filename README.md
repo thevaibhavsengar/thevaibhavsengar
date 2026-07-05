@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=500&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=700&lines=Hi!+I+am+Vaibhav+Sengar." alt="Welcome Message" />
-</div>
-
 ## 👨🏻‍💻 About Me
 
 ### Computer Science graduate | Full-Stack | Generative AI | Open to full-time roles
