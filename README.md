@@ -29,12 +29,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" height="180"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thevaibhavsengar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevaibhavsengar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=dark&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevaibhavsengar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thevaibhavsengar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 
