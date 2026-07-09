@@ -1,37 +1,3 @@
-<svg width="800" height="1000" viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style>
-      .line {
-        font-family: 'Courier New', 'Consolas', 'Lucida Console', monospace;
-        font-weight: bold;
-        font-size: 54px;
-        fill: #39ff14;
-        letter-spacing: 2px;
-      }
-    </style>
-  </defs>
-
-  <!-- Background -->
-  <rect x="0" y="0" width="800" height="1000" fill="#000000"/>
-
-  <!-- Text block, glowing green terminal style -->
-  <g filter="url(#glow)">
-    <text x="90" y="400" class="line">I Can</text>
-    <text x="90" y="470" class="line">Fix The</text>
-    <text x="90" y="540" class="line">World But</text>
-    <text x="90" y="610" class="line">They Won't</text>
-    <text x="90" y="680" class="line">Give Me The</text>
-    <text x="90" y="750" class="line">Source Code</text>
-  </g>
-</svg>
-
 ## 👨🏻‍💻 About Me
 
 ### Computer Science graduate | Full-Stack | Generative AI | Open to full-time roles
